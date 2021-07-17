@@ -1,0 +1,4 @@
+.:: Max Django Course ::.
+
+
+54. Setting Up the Starting Project
