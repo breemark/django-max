@@ -1,4 +1,6 @@
 .:: Max Django Course ::.
 
 
-54. Setting Up the Starting Project
+54. Setting Up the Starting Project [DONE]
+55. Planning the Project [Progress...]
+56. Adding URLs and Views []
